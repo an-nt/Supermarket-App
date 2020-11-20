@@ -1,0 +1,62 @@
+Certificate Request:
+    Data:
+        Version: 1 (0x0)
+        Subject: C = VN, ST = Vietnam, L = HoChiMinh, O = An, OU = IT, CN = mysupermarket.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:ef:b7:55:43:22:8b:74:a2:b7:13:ce:fa:06:5f:
+                    30:e5:9e:04:a7:58:79:5c:c8:67:c1:46:ef:a1:8c:
+                    af:5c:12:5c:be:7b:ca:eb:21:bd:64:e6:80:55:c6:
+                    43:07:1f:e8:a6:25:66:7c:65:93:14:bc:fe:91:5c:
+                    f6:bf:74:90:6a:b4:b9:94:d7:76:8d:88:36:aa:db:
+                    c1:3c:75:aa:34:1f:56:8e:0d:6d:8b:d9:d4:a2:0f:
+                    d5:34:11:76:c3:99:cb:d3:e7:5f:eb:f6:f4:b8:c3:
+                    c5:c1:99:f6:8d:a2:ac:f9:40:51:6e:ca:03:91:20:
+                    cf:f4:2f:91:ff:c5:6a:b4:39:c3:f7:59:bd:14:4d:
+                    60:b7:2e:6a:a1:53:f3:2a:b6:2e:de:19:83:7f:8e:
+                    67:e8:09:b5:08:dc:dc:11:88:f5:15:d3:5b:28:2e:
+                    97:c2:7a:4e:90:92:6b:97:5c:4f:03:c0:bb:f7:58:
+                    39:4e:53:15:c9:e6:88:88:c5:d3:8c:44:d0:cb:6e:
+                    e5:99:64:7c:63:f2:d8:74:b8:6d:c6:82:c0:34:20:
+                    4e:e1:c1:34:17:fd:6f:09:c6:94:e0:b0:7a:47:93:
+                    0d:e4:ea:26:04:ca:b3:a2:45:85:5a:e8:28:c8:95:
+                    80:10:04:8b:19:66:93:2c:fe:61:a2:6f:02:bc:2d:
+                    eb:f9
+                Exponent: 65537 (0x10001)
+        Attributes:
+            a0:00
+    Signature Algorithm: sha256WithRSAEncryption
+         e3:bf:e3:2d:0c:f1:30:8f:a7:6e:df:47:82:91:69:da:f8:2a:
+         13:49:a6:f6:73:93:3a:06:10:41:7c:7a:eb:5c:1c:00:1e:20:
+         6f:76:43:e1:c4:34:38:87:0a:d6:a4:c1:c3:35:88:51:b8:53:
+         3e:ea:a4:69:d2:93:5e:8c:fe:75:68:d5:15:ca:3f:98:99:eb:
+         e0:c9:cb:a7:5f:e7:9d:a1:a1:62:76:77:a1:65:92:4b:62:67:
+         ca:be:de:b7:18:42:fe:8b:76:b0:fe:f1:1d:d1:f0:25:d4:e2:
+         5f:0e:10:08:ea:de:45:1d:0d:03:07:34:a1:48:39:0d:f9:9e:
+         aa:1d:95:80:84:c9:6f:61:3a:c4:1e:59:c4:6b:a7:01:16:38:
+         b2:d0:eb:45:4e:bf:3e:3f:a9:32:70:59:32:5d:6b:dc:73:0d:
+         53:37:d1:18:0d:d3:8e:72:39:ba:b5:a5:a1:b8:fd:82:85:53:
+         1d:4d:d9:d1:84:eb:0b:48:b5:9b:1e:a4:92:3d:67:ba:20:e4:
+         05:d1:0c:3f:e8:40:db:3e:f5:f2:67:cc:54:44:8c:00:9d:db:
+         22:72:c7:73:57:64:0d:a3:27:27:b5:d4:6f:f4:98:5a:bf:ec:
+         e1:45:70:59:b9:a1:d2:56:89:5c:c0:73:8c:3d:62:50:19:84:
+         4c:45:74:4a
+-----BEGIN CERTIFICATE REQUEST-----
+MIICrjCCAZYCAQAwaTELMAkGA1UEBhMCVk4xEDAOBgNVBAgMB1ZpZXRuYW0xEjAQ
+BgNVBAcMCUhvQ2hpTWluaDELMAkGA1UECgwCQW4xCzAJBgNVBAsMAklUMRowGAYD
+VQQDDBFteXN1cGVybWFya2V0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAO+3VUMii3SitxPO+gZfMOWeBKdYeVzIZ8FG76GMr1wSXL57yushvWTm
+gFXGQwcf6KYlZnxlkxS8/pFc9r90kGq0uZTXdo2INqrbwTx1qjQfVo4NbYvZ1KIP
+1TQRdsOZy9PnX+v29LjDxcGZ9o2irPlAUW7KA5Egz/Qvkf/FarQ5w/dZvRRNYLcu
+aqFT8yq2Lt4Zg3+OZ+gJtQjc3BGI9RXTWygul8J6TpCSa5dcTwPAu/dYOU5TFcnm
+iIjF04xE0Mtu5ZlkfGPy2HS4bcaCwDQgTuHBNBf9bwnGlOCwekeTDeTqJgTKs6JF
+hVroKMiVgBAEixlmkyz+YaJvArwt6/kCAwEAAaAAMA0GCSqGSIb3DQEBCwUAA4IB
+AQDjv+MtDPEwj6du30eCkWna+CoTSab2c5M6BhBBfHrrXBwAHiBvdkPhxDQ4hwrW
+pMHDNYhRuFM+6qRp0pNejP51aNUVyj+YmevgycunX+edoaFidnehZZJLYmfKvt63
+GEL+i3aw/vEd0fAl1OJfDhAI6t5FHQ0DBzShSDkN+Z6qHZWAhMlvYTrEHlnEa6cB
+Fjiy0OtFTr8+P6kycFkyXWvccw1TN9EYDdOOcjm6taWhuP2ChVMdTdnRhOsLSLWb
+HqSSPWe6IOQF0Qw/6EDbPvXyZ8xURIwAndsicsdzV2QNoycntdRv9Jhav+zhRXBZ
+uaHSVolcwHOMPWJQGYRMRXRK
+-----END CERTIFICATE REQUEST-----
