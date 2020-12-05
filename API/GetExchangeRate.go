@@ -12,11 +12,11 @@ import (
 )
 
 const (
-	domain = "http://192.168.255.2:8080"
+	//domain = "http://192.168.255.2:8080"
 	//domain = "http://www.mysupermarket.com:8080"
-	//domain = "http://host.docker.internal:8080"
-	id   = 1
-	pass = "123456"
+	domain = "http://host.docker.internal:8080"
+	id     = 1
+	pass   = "123456"
 )
 
 type LoginFormat struct {

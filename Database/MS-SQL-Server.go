@@ -21,11 +21,11 @@ func (ms *MSSQL) Connect() (*sql.DB, string) {
 	conStr := fmt.Sprintf("server=%s;user id=%s;password=%s;port=%s;database=%s", ms.host, ms.user, ms.pass, ms.port, ms.dbname)
 	ms.Db, err = sql.Open("sqlserver", conStr)
 	if err != nil {
-		return ms.Db, "Connection failed"
+		return ms.Db, "Connection failed: cannot open connection"
 	}
 	err = ms.Db.Ping()
 	if err != nil {
-		return ms.Db, "Connection failed"
+		return ms.Db, "Connection failed: cannot ping"
 	}
 	return ms.Db, "Connection success"
 }
